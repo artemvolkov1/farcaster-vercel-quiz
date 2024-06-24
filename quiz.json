@@ -1,20 +1,105 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge about guns.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is an AK-47?",
+      "answers": ["Rifle", "Pistol", "Shotgun"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What does AR stand for?",
+      "answers": ["Assault", "Automatic", "Armalite"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which is a revolver?",
+      "answers": ["Glock", "Colt", "Uzi"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a suppressor?",
+      "answers": ["Scope", "Silencer", "Magazine"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What caliber is .50 BMG?",
+      "answers": [".22", ".50", ".308"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which is a shotgun?",
+      "answers": ["Mossberg", "Beretta", "Sig"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What does FPS stand for?",
+      "answers": ["Rounds", "Speed", "Power"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which is a sniper rifle?",
+      "answers": ["M4", "M24", "MP5"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is a magazine?",
+      "answers": ["Clip", "Case", "Barrel"],
       "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a pistol?",
+      "answers": ["Glock", "Remington", "Mossberg"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is recoil?",
+      "answers": ["Kick", "Noise", "Flash"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is an automatic gun?",
+      "answers": ["Uzi", "Mossberg", "Colt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an M16?",
+      "answers": ["Rifle", "Pistol", "Shotgun"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a firearm safety rule?",
+      "answers": ["Unload", "Aim low", "Finger off"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is the safety?",
+      "answers": ["Trigger", "Switch", "Barrel"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which is a submachine gun?",
+      "answers": ["Uzi", "M4", "M24"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a bullet?",
+      "answers": ["Cartridge", "Casing", "Projectile"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What does CQB stand for?",
+      "answers": ["Long", "Short", "Close"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is a trigger?",
+      "answers": ["Bolt", "Lever", "Switch"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which is a famous gunsmith?",
+      "answers": ["Glock", "Mossberg", "Colt"],
+      "correctAnswerIndex": 2
     }
   ]
 }
